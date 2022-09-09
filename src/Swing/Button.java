@@ -1,5 +1,5 @@
 
-package Component;
+package Swing;
 
 
 import java.awt.AlphaComposite;
